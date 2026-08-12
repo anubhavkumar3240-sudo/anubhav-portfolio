@@ -55,7 +55,7 @@ function App() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Anubhav_Kumar_Resume.pdf"
               download="Anubhav_Kumar_Resume.pdf"
               className="secondary-btn"
             >
